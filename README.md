@@ -1,4 +1,7 @@
 # Casos-de-Uso
+
+<tr> <td> </tr> </td>
+
 Baixa clientela
 Criar uma loja online, tp ifoode 
 Que os clientes possam pedir e a gnt (loja) entrega na residência do cliente
