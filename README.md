@@ -2,6 +2,8 @@
 
 <tr> <td> </tr> </td>
 
+https://docs.google.com/document/d/1w07-Ahq4ImN5QLGP1DtW2pzMc0oyA3A7fPBE-BBgEHo/edit
+
 Baixa clientela
 Criar uma loja online, tp ifoode 
 Que os clientes possam pedir e a gnt (loja) entrega na residência do cliente
